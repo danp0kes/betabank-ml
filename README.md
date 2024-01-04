@@ -8,7 +8,8 @@ Beta Bank hopes a sufficent prediction model can be made. It's sufficiency depen
 
 ## Data Description
 
-Features
+### Features
+
 `RowNumber` — data string index
 
 `CustomerId` — unique customer identifier
@@ -35,7 +36,8 @@ Features
 
 `EstimatedSalary` — estimated salary
 
-Target
+### Target
+
 `Exited` — сustomer has left (if 1)
 
 ## The Process
