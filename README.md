@@ -43,3 +43,6 @@ The process will follow these four steps:
 - Examine the balance of classes
 - Improve model quality
 - Perform final testing
+
+## [Check out this process here](betabank-ml.ipynb)
+
